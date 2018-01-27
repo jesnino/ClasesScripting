@@ -1,3 +1,1 @@
-# Scripting
-
-Clases de Scripting
+# Clases de Scripting
