@@ -1,7 +1,9 @@
 #Cómo registrar y gestionar nuestro dominio .onion en la deep web
 #https://www.genbeta.com/a-fondo/como-se-registran-y-gestionan-los-dominios-en-la-deep-web
 
+##############################################################################################################
 #Servidor web con PowerShell
+##############################################################################################################
 $routes = @{
     "/" = { return '<html><meta charset="UTF-8"> <meta http-equiv="refresh" content="0; url=http://jesusninoc.com"><body>asdfasfasfasServidor web funcionando</body></html>' }
 }
